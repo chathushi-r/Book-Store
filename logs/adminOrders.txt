@@ -1,0 +1,15 @@
+New order placed. Order Id - 6
+Order status of order Id - 6 updated
+Order id - 6 deleted.
+New order placed. Order Id - 7
+New order placed. Order Id - 9
+Order status of order Id - 9 updated
+Order id - 9 deleted.
+New order placed. Order Id - 10
+Order status of order Id - 7 updated
+Order id - 7 deleted.
+New order placed. Order Id - 12
+Order status of order Id - 12 updated
+Order id - 12 deleted.
+Order status of order Id - 4 updated
+Order status of order Id - 10 updated
