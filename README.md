@@ -5,18 +5,10 @@ This application is connected to a Derby database that consists of tables that s
 The logs folder contains text files that log the different actions performed by the logged in user.
 
 **Functionalities:**
-- Add new books
-- Update book details
-- Delete a book
-- Search for a book
-- View available books
-- Add new orders
-- Search orders
-- Delete orders
+- Add/Update/Delete/Search/View books
+- Add/Search/Delete orders
 - Update order status
-- Add new user
-- Update user details
-- Delete a user
+- Add/Update/Delete a user
 - View current users
 - View sales report
 - View logs of user actions
